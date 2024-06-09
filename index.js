@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["!help","status by .kit_yt","(process.env.STATUS)"];
+const statusMessages = ["!help","status by .kit_yt"];
 
 
 let currentIndex = 0;
