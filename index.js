@@ -36,11 +36,11 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["!help","gen"];
+const statusMessages = ["!help","status by .kit_yt","(process.env.STATUS)"];
 
 
 let currentIndex = 0;
-const channelId = '';
+const channelId = '(process.env.ID)';
 
 async function login() {
   try {
