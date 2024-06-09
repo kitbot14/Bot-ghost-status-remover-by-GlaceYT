@@ -40,7 +40,7 @@ const statusMessages = ["check my bio","stream twitch.tv/kityt09"];
 
 
 let currentIndex = 0;
-const channelId = '(process.env.ID)';
+const channelId = '1249180376082026509';
 
 async function login() {
   try {
