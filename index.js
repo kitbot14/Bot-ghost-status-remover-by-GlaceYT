@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["!help","status by .kit_yt"];
+const statusMessages = ["check my bio","stream twitch.tv/kityt09"];
 
 
 let currentIndex = 0;
